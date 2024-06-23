@@ -1,7 +1,6 @@
 # Hey There
 ### Hi there 👋, I'm Himanshu Malik
 #### A noob CS Student
-![A noob CS Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Stay Lucid
 
