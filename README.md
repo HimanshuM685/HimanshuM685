@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+[![](https://visitcount.itsvg.in/api?id=HimanshuM685&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ### Hi there 👋, I'm Himanshu Malik
 #### A noob CS Student
 
