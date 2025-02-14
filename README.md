@@ -3,6 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 </div>
+
 # 💫 About Me:
 I am a programming enthusiast with a strong interest in Data Structures and Algorithms, primarily working with C++ and Java. Currently, I am a GSSoC '24 Contributor and actively exploring problem-solving techniques.<br><br>I enjoy building projects and expanding my knowledge in different areas of software development. While my primary focus is on improving my coding skills, I also have an interest in writing and storytelling.
 
@@ -29,6 +30,4 @@ I am a programming enthusiast with a strong interest in Data Structures and Algo
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HimanshuM685)  
-[![roadmap.sh](https://roadmap.sh/card/wide/65b94ddc0c54812283657a4e?variant=dark&roadmaps=datastructures-and-algorithms%2Cblockchain%2Cnodejs%2Ccpp)](https://roadmap.sh)
 [![An image of @himanshum685's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshum685)](https://holopin.io/@himanshum685)
